@@ -49,8 +49,6 @@
    - I launched the downloaded `.msi` installer.  
    - I followed the on-screen instructions to complete the installation.
   
-   - <img width="1121" height="786" alt="image" src="https://github.com/user-attachments/assets/6c9a01bc-cb73-4bee-99c5-659606a3d615" />
-
 
 3. **I verified the Installation**  
    - I opened **Command Prompt**.  
@@ -58,8 +56,6 @@
      ```bash
      aws --version
      ``` 
-     <img width="1314" height="73" alt="image" src="https://github.com/user-attachments/assets/2d32d397-38ec-4dca-b79f-164fc4a6865e" />
-
    - I saw output like:  
      ```
      aws-cli/2.x.x Python/3.x Windows/x86_64
